@@ -1,0 +1,22 @@
+body{
+    background: #d8ad67c2;
+}
+
+.container-fulid{
+    width: 100%;
+}
+
+.row {
+    display:flex;
+    margin: 200px 0px 0px 0px;
+    align-items:center;
+    justify-content:center;
+}
+
+
+.run-1{
+    display:flex;
+    margin: 200px 0px 0px 0px;
+    align-items:center;
+    justify-content:center;
+}
