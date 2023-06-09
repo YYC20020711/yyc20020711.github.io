@@ -68,6 +68,7 @@ body{
 
 .account{
   display: inline;
+  z-index: 2;
 }
 
 .row-2{
